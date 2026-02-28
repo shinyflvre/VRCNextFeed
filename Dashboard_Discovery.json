@@ -1,0 +1,42 @@
+[
+  {
+    "WorldID": "wrld_4432ea9b-729c-46e3-8eaf-846aa0a37fdd",
+    "Description": "Ein entspannter Hangout-Platz mit gemütlicher Atmosphäre und toller Community.",
+    "Tags": ["Hangout", "Cozy"]
+  },
+  {
+    "WorldID": "wrld_5b89c2a1-3f7d-4c21-9e6f-1234567890ab",
+    "Description": "Traumhafte Landschaften für perfekte Screenshots und kreative Fotografie.",
+    "Tags": ["Photography", "Abstract"]
+  },
+  {
+    "WorldID": "wrld_8c3d4e5f-6a7b-4c8d-9e0f-abcdef123456",
+    "Description": "Action-geladenes Spielerlebnis mit Minigames und Wettbewerben.",
+    "Tags": ["Game", "Events"]
+  },
+  {
+    "WorldID": "wrld_1a2b3c4d-5e6f-7a8b-9c0d-ef1234567890",
+    "Description": "Wunderschöne abstrakte Kunstwelt voller visueller Überraschungen.",
+    "Tags": ["Abstract", "Photography"]
+  },
+  {
+    "WorldID": "wrld_9f8e7d6c-5b4a-3c2d-1e0f-fedcba987654",
+    "Description": "Riesige offene Welt zum Erkunden mit atemberaubender Natur.",
+    "Tags": ["Open World", "Hangout"]
+  },
+  {
+    "WorldID": "wrld_2e3f4a5b-6c7d-8e9f-0a1b-234567890cde",
+    "Description": "Romantisch und liebevoll gestaltet – perfekt für Dates und Freunde.",
+    "Tags": ["Lovely", "Cozy"]
+  },
+  {
+    "WorldID": "wrld_7b8c9d0e-1f2a-3b4c-5d6e-7f890a1b2c3d",
+    "Description": "Wöchentliche Events und Partys in einer einzigartigen Club-Atmosphäre.",
+    "Tags": ["Events", "Hangout"]
+  },
+  {
+    "WorldID": "wrld_3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+    "Description": "Gemütliches Lagerfeuer-Feeling mit entspannter Musik und Natur.",
+    "Tags": ["Cozy", "Open World"]
+  }
+]
