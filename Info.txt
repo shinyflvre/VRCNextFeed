@@ -6,3 +6,7 @@ Abstract — indigo
 Lovely — pink
 Cozy — orange
 Open World — green
+Home — teal
+Outdoor — bright green
+Indoor — violett
+Brainrot — red-pink
